@@ -1,0 +1,259 @@
+{
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact Us",
+    "arabic": "Arabic",
+    "english": "English",
+    "contact_us_whatss": "Contact Us",
+  
+    "hero": {
+      "slides": [
+        {
+          "heading": "Oselan for Construction and Decoration",
+          "text": "Innovative solutions, high-quality services, and precision in execution",
+          "buttons": {
+            "explore": "Our Services",
+            "start": "Start Your Project"
+          }
+        },
+        {
+          "heading": "Exceptional Finishes",
+          "text": "From wood alternatives to ceramics and kitchen hinges, we provide the best solutions with the highest quality",
+          "buttons": {
+            "explore": "Our Services",
+            "start": "Start Your Project"
+          }
+        },
+        {
+          "heading": "Discover Our Services",
+          "text": "Start your project with us now and be part of our vision for modern decorations",
+          "buttons": {
+            "explore": "Our Services",
+            "start": "Start Your Project"
+          }
+        }
+      ]
+    },
+  
+    "Home_about_us": {
+      "heading": "Osilan for Contracting and Decoration",
+      "paragraph": "Osilan for Contracting and Decoration is a leading name in the construction and home decoration industry. We take pride in having a distinguished team of engineers and skilled technicians who work diligently to deliver exceptional projects that meet the highest quality standards. Our mission at Osilan is to exceed customer expectations by providing innovative and comprehensive solutions across Saudi Arabia. We believe in the importance of creativity and precision in execution, and we always strive to achieve our vision of offering the best to our valued customers.",
+      "start": "Start Your Project"
+    },
+  
+    "Home_services": {
+      "heading": {
+        "title": "Our Services",
+        "text": "We offer a wide range of solutions tailored to meet our clients' needs"
+      },
+      "interior_design": {
+        "title": "Interior Design",
+        "description": "Transform your spaces with our modern and innovative interior and exterior designs, tailored to suit your unique style."
+      },
+      "residential_commercial_construction": {
+        "title": "Residential and Commercial Construction",
+        "description": "From planning to execution, we build residential and commercial projects with the highest levels of quality and precision."
+      },
+      "building_renovation": {
+        "title": "Building Renovation",
+        "description": "Breathe new life into your spaces with our professional renovation and upgrading services, enhancing both functionality and aesthetics."
+      },
+      "engineering_consulting": {
+        "title": "Engineering Consulting",
+        "description": "Benefit from expert engineering consultations to guide your projects towards success with efficiency and innovation."
+      },
+      "custom_solutions": {
+        "title": "Custom Solutions",
+        "description": "Add a new dimension to your spaces with our professional renovation and upgrading services, enhancing both functionality and aesthetics."
+      }
+    },
+    "experience": {
+      "years_of_experience": "years of exprince",
+      "success_projects": "success projects",
+      "team_members": "team members"
+    },
+    "why_choose_us": {
+      "why_choose_us_heading": "why chose us",
+      "reason_for_trust": "At Osseilan Contracting & Décor Company, we pride ourselves on delivering excellence in every project. Here’s",
+      "modern_design": {
+        "title": "Modern design",
+        "text": "We bring contemporary, elegant, and functional designs that align with the latest trends and meet your unique preferences."
+      },
+      "expert_team": {
+        "title": "expert team",
+        "text": "Our skilled team of architects, designers, and engineers ensures every project is executed with precision and expertise."
+      },
+      "reasonable_price": {
+        "title": "reasponable price ",
+        "text": "Enjoy premium services at competitive rates. We deliver exceptional value without compromising on quality."
+      },
+      "home_projects" : {
+        "title": "lastet projects",
+        "description": "ouer projects & design"
+      }
+    },
+    "home_projects": {
+      "title": "Our Creativity in Projects",
+      "description": "Explore our innovative designs that combine elegance and modernity."
+    },
+    "form": {
+      "title": "Got a Vision? Let’s Bring It to Life",
+      "description": "Whether you have questions, need guidance, or are ready to kickstart your project, we’re here to collaborate and turn your ideas into reality. Reach out today!",
+      "name_label": "Name",
+      "name_placeholder": "Enter your name",
+      "email_label": "Email",
+      "email_placeholder": "Enter your email",
+      "phone_label": "Phone",
+      "phone_placeholder": "Enter your phone number",
+      "subject_label": "Subject",
+      "subject_placeholder": "Enter the subject",
+      "message_label": "Message",
+      "message_placeholder": "Enter your message",
+      "submit_button": "Send"
+    },
+      "testimonials": {
+        "title": "Customer Reviews",
+        "description": "We believe that the best way to learn about our services is through your own experience!",
+        "slider": {
+          "testimonial_1": {
+            "name": "Mohamed Ahmed",
+            "description": "Amazing service! The team exceeded all my expectations with their professionalism and attention to detail."
+          },
+          "testimonial_2": {
+            "name": "Mariam Yasser",
+            "description": "I’m incredibly happy with the work done! Highly recommend their services for anyone looking for quality."
+          },
+          "testimonial_3": {
+            "name": "Sulaiman Ahmed",
+            "description": "The team was very responsive and provided great advice for our project. The outcome was flawless."
+          },
+          "testimonial_4": {
+            "name": "Abdullah Mohammed",
+            "description": "Absolutely wonderful! I am so pleased with the results, and the entire process was smooth and efficient."
+          },
+          "testimonial_5": {
+            "name": "Mahmoud Al , Sayed",
+            "description": "They did an outstanding job with my project. The quality is top-notch, and I would hire them again without hesitation."
+          },
+          "testimonial_6": {
+            "name": "Abdul fattah Muhammad",
+            "description": "Great experience working with them! They are skilled professionals, and their attention to detail was amazing."
+          }
+        
+        }
+    },
+    "footer": {
+  
+      "heading_footer":"Start your new project with us",
+      "team_description": "We are a specialized team providing innovative solutions to enhance your business and achieve success. Join us today and start your journey towards the future.",
+      "email_placeholder": "Enter your email",
+      "latest_projects": "Latest Projects",
+      "links_projects": "links",
+      "instagram": "Instagram",
+      "text_date_1": "October 15, 2024",
+      "text_date_2": "January 10, 2025",
+      "project_1": "Modern kitchen design combining elegance and functionality, with decorative touches for the home garden to create a calm atmosphere.",
+      "project_2": "Luxury living room design with modern touches, hidden lighting, and comfortable colors to match contemporary home decor."
+    }, 
+    "OurMissionVision": {
+      "title" : "About us",
+      "heading": "Our Mission & Vision",
+      "vision": {
+        "title": "Our Vision",
+        "text": "We are committed to creating inspiring spaces that meet our clients' ambitions and add real value to their lives. We combine creativity, innovative thinking, and precision in execution, with a focus on delivering unparalleled quality. Our goal is to turn ideas into tangible reality through unique designs that blend beauty and functionality, providing environments that reflect our clients' aspirations and meet their daily needs. We believe that details make the difference, which is why we pay attention to every aspect of our projects to ensure an exceptional experience that exceeds expectations."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "text": "We strive to be leaders and innovators in the construction and decoration sector in Saudi Arabia, offering integrated services that combine high quality and outstanding design. Our goal is to achieve excellence by developing innovative solutions that meet our clients' needs in the best possible way, while adhering to the highest standards of professionalism and transparency. We aspire to build long-term relationships based on trust and credibility with our clients and partners, contributing to the development of the Kingdom and achieving Vision 2030 through delivering pioneering projects that add real value to society."
+      }
+    },
+    "About_partners": {
+      "heading": {
+        "title": "Our Success Partners",
+        "text": "We believe that success is not achieved alone but through strategic partnerships with our clients, suppliers, and exceptional team. They are the cornerstone of our journey towards excellence and sustainable growth."
+      },
+      "Ministry_Health": {
+        "title": "Ministry of Health"
+      },
+      "Civil_Status": {
+        "title": "Civil Affairs"
+      },
+      "Islamic_university": {
+        "title": "Islamic University of Madinah"
+      },
+      "State_Security": {
+        "title": "State Security"
+      },
+      "Ministry_education": {
+        "title": "Ministry of Education"
+      },
+      "Ministry_Defense": {
+        "title": "Ministry of Defense"
+      }
+    },
+    "certificates":{
+      "certificatesTitle": "Certificates of Appreciation",
+      "certificatesText": "We are proud to present the certificates of appreciation to our top partners who have contributed to our continuous success."
+    },
+    "cheack" : {
+      "commitmentTitle": "Our Commitment to Transparency",
+      "commitmentText": "We are always striving to enhance transparency in all our dealings to ensure that our information is accessible and clear to our clients and partners"
+    },
+    "page_service_card": {
+      "title": "Service",
+      "heading_service": {
+        "title":  "Our Outstanding Services",
+        "decoration": "We strive to provide a variety of services designed to meet the needs of our customers with a high level of quality and professionalism."
+      },
+      "homeInteriorDesign": {
+        "title": "Home Interior Design",
+        "text": "Transform your space with our modern and innovative interior and exterior designs, tailored to match your unique style."
+      },
+      "exteriorDesign": {
+        "title": "Exterior Design",
+        "text": "Enhance the aesthetic appeal of your property's facade with our elegant and practical solutions that blend functionality and beauty."
+      },
+      "projectManagement": {
+        "title": "Project Management",
+        "text": "Let our experienced team manage your design projects with precision and efficiency, ensuring timely delivery and exceptional results."
+      },
+      "customFurniture": {
+        "title": "Custom Furniture Design",
+        "text": "Add a personal touch to your home or office with our custom furniture designs that combine craftsmanship and creativity."
+      },
+      "spaceOptimization": {
+        "title": "Space Optimization",
+        "text": "Make the most of your space with our smart and innovative solutions, creating harmonious and efficient environments for living or working."
+      }
+    },
+    "shop": {
+      "title": "products"
+    },
+    "contact_us": {
+      "title": "Contact Us",
+      "contact_card": {
+        "Contactphone": {
+          "title": "Call Us",
+          "text": "+966543044442",
+          "additionalText": "Let us hear your voice! Your call means a lot to us, and our team is always ready to provide support and assistance."
+        },
+        "Contactemail": {
+          "title": "Email",
+          "text": "info@osseilan.net",
+          "additionalText": "Got an idea or inquiry? Our inbox awaits your message to take the first step towards a successful partnership!"
+        },
+        "Contactlocation": {
+          "title": "Location",
+          "additionalText": "Second Ring Road, after Jarir Bookstore, next to Hyderabad Restaurant, Madinah, Kingdom of Saudi Arabia",
+          "text": " "
+          
+        }
+      }
+    }
+    
+  
+  
+  }
+  

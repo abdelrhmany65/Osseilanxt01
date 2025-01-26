@@ -1,0 +1,35 @@
+.topbutton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: var(--btn-bgHover);
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 1000;
+    opacity: 0.8;
+  }
+  
+  .topbutton:hover {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  
+  .topbutton svg {
+    font-size: 30px;
+  }
+  
+  @media (max-width: 768px) {
+    .top-button {
+      width: 40px;
+      height: 40px;
+      font-size: 16px;
+    }
+  }
+  

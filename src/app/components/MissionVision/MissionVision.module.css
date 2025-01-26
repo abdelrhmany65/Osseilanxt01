@@ -1,0 +1,56 @@
+
+  /* ==================================== About us ================================ */
+  .imageabouthero {
+    width: 100%;
+    
+    }
+    
+    .OurMissionTitle {
+    color: var(--btn-bg);
+    font-size: 48px;
+    font-weight: bold;
+    margin: 30px 0 70px 0;
+    }
+    
+    .OurMissionhead {
+    color: var(--btn-bg);
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    }
+    
+    .OurMissiontext {
+    color: var(--heading-color);
+    font-size: 20px;
+    margin-bottom: 20px;
+    }
+    
+    .imageaboutcheack{
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+    margin-top: 80px;
+    }
+
+    
+    @media (max-width: 768px) {
+    .imageabouthero,
+    .imageaboutcheack {
+      width: 100%;
+      margin-top: 30px;
+    }
+    .OurMissionTitle {
+      font-size: 36px;
+      margin: 20px 0 50px 0;
+    }
+    
+    .OurMissionhead {
+      font-size: 28px;
+    }
+    
+    .OurMissiontext {
+      font-size: 18px;
+    }
+
+    }
+    

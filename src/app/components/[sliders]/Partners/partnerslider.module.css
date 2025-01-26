@@ -1,0 +1,43 @@
+.partnerslider :global(.slick-dots li button:before){
+    border: solid 1px ;
+    border-radius: 50%;
+    font-size: 16px;
+    margin: 15px auto !important;
+    background: transparent;
+    color: var(--btn-bgHover);
+    
+  }
+  
+  .partnerslider :global(.slick-dots li.slick-active button:before) {
+    color: var(--btn-bgHover);
+  }
+  
+  .patenercard {
+    padding: 10px 0 5px  0;
+    margin: 20px !important;
+    text-align: center;
+    width: 18rem;
+    height: 15rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 10px; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+  }
+  
+  .patenercard:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); 
+  }
+  
+  
+  .patenercard img{
+    width: 120px;
+    height: 100px;
+  }
+  @media (max-width: 500px) {
+    .patenercard {
+      width: 90%;
+    }
+  
+  } 
+  
+  

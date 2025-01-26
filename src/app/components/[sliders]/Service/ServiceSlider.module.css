@@ -1,0 +1,49 @@
+.serviceslider{
+    overflow: hidden;
+    padding: 40px 0;
+}
+.serviceslider :global(.slick-dots li button:before){
+    border: solid 1px ;
+    border-radius: 50%;
+    font-size: 16px;
+    margin: 15px auto !important;
+    background: transparent;
+    color: var(--btn-bgHover);
+}
+
+.serviceslider :global(.slick-dots li.slick-active button:before) {
+    color: var(--btn-bgHover);
+}
+
+.servicecard {
+    margin: auto !important;
+    padding: 15px 0 5px 0;
+    text-align: center;
+    width: 20rem;
+    height: 17rem !important;
+    background-color: #fff;
+    color: #000; 
+    border-radius: 8px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease; 
+}
+
+.servicecard img {
+    width: 60px;
+    height: 60px;
+}
+
+.servicecard:hover {
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: #fff; 
+}
+
+@media (max-width: 1190px) {
+    .servicecard{
+        width: 17rem;
+        
+    }
+}
+
+
+/* ===========================  serves page  ===================================== */

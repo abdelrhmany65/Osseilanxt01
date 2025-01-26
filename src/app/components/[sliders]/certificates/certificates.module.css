@@ -1,0 +1,65 @@
+body, html {
+    overflow-x: hidden; 
+  }
+  .certificateslider{
+    padding: 20px 0;
+    margin-top: 10rem !important;
+    margin-bottom: 7rem !important;
+  
+  }
+  .certificateslider :global(.slick-dots li button:before){
+    border: solid 1px ;
+    border-radius: 50%;
+    font-size: 16px;
+    margin: 15px auto !important;
+    background: transparent;
+    color: var(--btn-bgHover);
+    
+  }
+  
+  .certificateslider :global(.slick-dots li.slick-active button:before) {
+    color: var(--btn-bgHover);
+  }
+  
+  .certificatecard {
+    padding: 10px 0 5px  0;
+    height:auto;
+    width: 18rem;
+  }
+  .certificatecard img{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+  }
+  .model{
+    background-color: rgba(0, 0, 0, 0.8) ;
+    width: 100%;
+    height: 100%;
+  }
+  .modal-body img {
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+  }
+  
+  @media (max-width: 650px) {
+    .certificatecard {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    .patenercard {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    .certificateslider{
+      padding-bottom: 0 !important;
+    }
+    .certificateslider :global(.slick-dots li button:before){
+      margin: 20px auto !important;
+    }
+  
+  } 
+  
+  

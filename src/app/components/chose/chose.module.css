@@ -1,0 +1,40 @@
+/* ======================== chose =================== */
+.colCose{
+  padding-top: 60px;
+}
+.choseContent{
+  margin-top: 20px;
+  }
+  .imageOneChose{
+    height: 564px;
+  width: "100%";
+  object-fit: cover;
+  border-top-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  }
+  .imagetwoChose{
+  height: 282px;
+  width: 100%;
+  object-fit: cover;
+  border-top-left-radius: 80px;
+  }
+  .imagethreeChose{
+  height: 282px;
+  width: 100%;
+  object-fit: cover;
+  }
+  
+  @media (max-width: 776px) {
+    .colCose{
+      padding-top: 0px;
+    }
+  .choseContent{
+    margin-top: 50px;
+  }
+  .imageOneChose{
+  height: auto;
+    width: 100%;
+    
+  }
+  
+  }

@@ -1,0 +1,53 @@
+/* ================  About Section  ===============*/
+.imageAbout01,
+.imageAbout02 {
+background-size: cover;
+height: 510px;
+width: 320px;
+transition: transform 0.3s ease-in-out;
+}
+.TitleAbout {
+color: var(--heading-color);
+font-size: 36px;
+font-weight: bold;
+line-height: 1.5;
+}
+
+.textAbout {
+color: var(--heading-color);
+font-size: 20px;
+line-height: 1.5;
+margin-bottom: 20px;
+}
+.imageAbout02 {
+margin-top: 200px;
+}
+@media (max-width: 1381px) {
+.RowsAbout{
+  flex-direction: column;
+  align-items: center;
+}
+.imagesAbout{
+  display: flex;
+  align-items: center;
+  margin: 40px 0;
+}
+.imageAbout02 {
+  margin-top: 0;
+}
+}
+@media (max-width: 776px) {
+.imagesAbout{
+  flex-direction: column;
+  align-items: center;
+}
+.imageAbout01,
+.imageAbout02 {
+  height: 100%;
+  width: 100%;
+  margin: 20px 0;
+}
+
+}
+
+

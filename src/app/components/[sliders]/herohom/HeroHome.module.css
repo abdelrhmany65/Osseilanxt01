@@ -1,0 +1,42 @@
+/* HeroHome.module.css */
+.imagesHero{
+  width: 100% !important;
+  height: 100vh !important;
+  object-fit: cover;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); 
+}
+
+.carouselCaption {
+  position: absolute;
+display: flex;
+align-items: center;
+justify-content: center;
+  text-align: center;
+  color: white; 
+  height: 100% !important;
+}
+
+@media (max-width: 768px) {
+  .carouselTextContainer{
+    width: 100% !important;
+  }
+
+}
+
+@media (max-width: 576px) {
+
+  .heroButton{
+    display: flex;
+    flex-direction: column;
+   
+  }
+}

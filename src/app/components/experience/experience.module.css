@@ -1,0 +1,48 @@
+/* ==========================================  experience =============================  */
+
+.experience {
+    background-image: url('../../../../public/images/exerince.png');
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 60px 0;
+  }
+  
+  /* Overlay */
+  .experience .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+   
+  }
+  
+  /* Cards */
+  .Exservicecard {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.2) !important;
+    z-index: 2; 
+    padding: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  }
+  
+  .Exservicecard:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }

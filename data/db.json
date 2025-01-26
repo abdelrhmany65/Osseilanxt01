@@ -1,0 +1,126 @@
+{
+  "categories": [
+
+    {
+      "id": 1,
+      "name": "Wood Alternative",
+      "products": [
+        {
+          "id": 102,
+          "name": "Wood Alternative 02",
+          "image": "https://elgeoushy.com/wp-content/uploads/2022/09/Artboard-1-50-10.jpg",
+          "price": 17.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 103,
+          "name": "Wood Alternative 03",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/217855/conversions/dj-23501-size_500_500.webp",
+          "price": 17.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 104,
+          "name": "Wood Alternative 04",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/222674/conversions/AK-16024-7-size_500_500.webp",
+          "price": 16.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Wallpaper",
+      "products": [
+        {
+          "id": 119,
+          "name": "Wallpaper 01",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/249188/conversions/WhatsApp-Image-2024-10-20-at-12.30.36-PM-size_500_500.webp",
+          "price": 29.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 120,
+          "name": "Wallpaper 02",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/271845/conversions/WhatsApp-Image-2024-11-17-at-3.24.18-PM-size_500_500.webp",
+          "price": 27.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Parquet",
+      "products": [
+        {
+          "id": 139,
+          "name": "Parquet 01",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/247629/conversions/WhatsApp-Image-2024-10-19-at-4.51.45-PM-size_500_500.webp",
+          "price": 29.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 140,
+          "name": "Parquet 02",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/247473/conversions/4-size_500_500.webp",
+          "price": 27.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 141,
+          "name": "Parquet 03",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/261326/conversions/HDF-Turkish-Parquet-Flooring4-size_500_500.webp",
+          "price": 26.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Marble Alternative",
+      "products": [
+        {
+          "id": 149,
+          "name": "Marble Alternative 01",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/214098/conversions/TAL-307-size_500_500.webp",
+          "price": 29.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 150,
+          "name": "Marble Alternative 02",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/217047/conversions/GD-S-06-size_500_500.webp",
+          "price": 28.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 151,
+          "name": "Marble Alternative 03",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/216193/conversions/TAL-061-size_500_500.webp",
+          "price": 27.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gypsum Board",
+      "products": [
+        {
+          "id": 169,
+          "name": "Gypsum Board 01",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/265985/conversions/afbf8b7d-779b-4c81-8d20-e7ba98e0b22a-size_500_500.webp",
+          "price": 29.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        },
+        {
+          "id": 170,
+          "name": "Gypsum Board 02",
+          "image": "https://youmats-media.s3.me-central-1.amazonaws.com/249732/conversions/WhatsApp-Image-2024-10-21-at-3.35.23-PM-size_500_500.webp",
+          "price": 28.99,
+          "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, praesentium"
+        }
+      ]
+    }
+  ]
+}

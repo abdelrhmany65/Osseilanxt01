@@ -1,0 +1,200 @@
+
+.textStyle {
+    font-weight: 400;
+    transition: all 0.3s ease;
+    color: var(--white-color);
+    text-decoration: none;
+    font-size: 23px;
+    
+  }
+  
+  .textStyle:hover {
+    transform: scale(1.1);
+    color: var(--btn-bgHover) !important;
+    border-bottom: 2px solid var(--btn-bgHover);
+    padding-bottom: 2px;
+  }
+  
+  .nav__active {
+    color: var(--btn-bgHover);
+    font-weight: 600;
+  }
+  
+  .footer {
+      background-color: #212121;
+      color: white;
+      padding: 30px 0;
+    }
+    
+  .headingfooter{
+      font-size: 3rem;
+      margin: 40px;
+      text-decoration: underline;
+    }
+  .footerLogo {
+    height: auto;
+    border-radius: 5px;
+    filter: brightness(0) invert(1);
+  }
+    
+  .inputsend{
+      border: none; 
+      background-color: #F8F8F8; 
+      color: var(--text-color02); 
+      padding: 10px;
+      border-radius: 5px;
+      width: 80%;
+      transition: background-color 0.3s ease;
+      font-size: medium;
+  }
+  .inputsend:hover{
+  
+      background-color: #E1E1E1; 
+      border-color: var(--btn-bg); 
+      box-shadow: 0 0 0 0.2rem rgba(144, 110, 80, 0.25);
+  }
+  .butoonsend{
+      background: var(--btn-bg) !important;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      
+    
+  }
+  .butoonsend:hover {
+    background-color: var(--btn-bgHover) !important;
+  }
+  .resntproject{
+      display: flex;
+      flex-direction: column;
+  }
+  .latestProjects{
+      font-size: 32px;
+      margin: 45px 0; 
+      text-align: center;
+      text-decoration: underline;
+  }
+  .footimage01, .footimage02, .footimage03, .footimage04 {
+      width: 100% !important;
+      height: auto;
+      object-fit: cover;
+      border-radius: 8px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .footimage05, .footimage06, .footimage07, .footimage08 {
+      max-width: 120px !important;
+      height: 100% !important;
+      object-fit: cover;
+      border-radius: 8px;
+  }
+  
+  .footerinsta{
+      text-align: center;
+  }
+  .imageWrapper {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .imageWrapper img {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .imageWrapper:hover img {
+      transform: scale(1.1);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+    
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      opacity: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: opacity 0.3s ease;
+      border-radius: 8px; 
+    }
+    
+    .imageWrapper:hover .overlay {
+      opacity: 1;
+    }
+    
+    .instagramIcon {
+      object-fit: contain;
+      filter: invert(1);
+    }
+    /* .FooternavbarNav{
+      margin-top: 40px;
+    } */
+    @media (max-width: 1400px) {
+      
+      .projects-section {
+        display: flex;
+        flex-direction: column; /* يجعل العناصر تأخذ كامل العرض */
+        width: 100%;
+        margin-top: 30px; /* لضمان وجود مسافة بين الأقسام */
+      }
+    
+      .projects-section h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+    
+      .projects-section .resntproject .d-flex {
+        flex-direction: column !important; /* لضمان ترتيب المشاريع رأسياً */
+        align-items: center;
+      }
+    
+      .projects-section .text-md-start {
+        text-align: center !important;
+      }
+    }
+    
+    @media (max-width: 768px) {
+      
+      .resntproject .d-flex {
+        flex-direction: column-reverse; 
+      }
+      .footerLogo {
+        margin: 0 auto;
+        width: 90% !important;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+      }
+      .latestProjects{
+        font-size: 55px;
+      }
+      .textStyle{
+        font-size: 25px;
+      }
+      .resntproject .text-start {
+        text-align: center !important; 
+      }
+      .footimage01, .footimage02, .footimage03, .footimage04 {
+        width: 90% !important;
+        height: 90%   ;
+      }
+      .footimage05, .footimage06, .footimage07, .footimage08 {
+        max-width: 100% !important;
+        height: 95% !important;
+    }
+    }
+    
+    @media (max-width: 768px) {
+      .footer .m-auto {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+      
