@@ -6,7 +6,7 @@ import FormContact from '../components/formContact/FormContact'
 
 const Servicespage = () => {
   return (
-    <div>
+    <div style={{ overflowX: "hidden" }}>
       <ServicePage />
       <ChoseUs />
       <Projects />

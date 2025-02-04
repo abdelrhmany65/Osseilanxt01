@@ -7,7 +7,7 @@ const About = ({ language, imageAbout01, imageAbout02 }) => {
   const { t } = useTranslation();
 
   return (
-    <div> 
+    <div style={{ overflowX: "hidden" }}> 
       <Container>
         <Row className={`${styles.RowsAbout} d-flex align-items-center justify-content-around`}>
           <Col lg={6} md={12}> 

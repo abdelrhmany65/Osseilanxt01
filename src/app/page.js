@@ -12,7 +12,7 @@ import TestimonialSlider from "./components/[sliders]/testimonial/TestimonialSli
 
 export default function Home() {
   return (
-    <div className="overflow-hidden">
+    <div>
       <HeroHome />
       <section>
         <ServiceCoponents />

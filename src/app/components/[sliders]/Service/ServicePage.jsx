@@ -51,7 +51,7 @@ const ServicePage = () => {
   };
 
   return (
-    <div className='overflow-hidden'>
+    <div style={{ overflowX: "hidden" }}>
     
     <TopImage title={t('page_service_card.title')}/>
     <Container className={`${styles.pageserviceslider} m-auto my-5`}>

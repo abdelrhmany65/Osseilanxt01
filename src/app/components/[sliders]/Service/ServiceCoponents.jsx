@@ -51,7 +51,7 @@ const ServiceSlider = () => {
   return (
     <>
     
-    <Container className='overflow-hidden'>
+    <Container style={{ overflowX: "hidden" }}>
       <HeadingSection 
           title={t('Home_services.heading.title')}
           text={t('Home_services.heading.text')}
