@@ -1,6 +1,4 @@
-:global(body), :global(html) {
-    overflow-x: hidden; 
-  }
+
   .certificateslider{
     padding: 20px 0;
     margin-top: 10rem !important;

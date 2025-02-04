@@ -22,7 +22,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="ar" dir="rtl">
-      <body>
+      <body className='overflow-hidden'>
         <ReduxProviderClient>
           <I18nProvider>
             <Header />

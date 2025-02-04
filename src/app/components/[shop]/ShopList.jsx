@@ -12,6 +12,7 @@ const categories = [
   'Gypsum Board',
 ];
 
+
 const ShopList = () => {
   const selectedCategory = useSelector((state) => state.shop.selectedCategory);
   const dispatch = useDispatch();

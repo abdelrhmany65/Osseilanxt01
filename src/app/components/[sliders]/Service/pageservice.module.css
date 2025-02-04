@@ -1,7 +1,5 @@
 
-:global(body), :global(html) {
-    overflow-x: hidden; 
-  }
+
 .pageserviceslider :global(.slick-dots li button:before){
 border: solid 1px ;
 border-radius: 50%;

@@ -61,7 +61,7 @@ const Certificates = () => {
   };
 
   return (
-    <Container className={`${styles.certificateslider} m-auto`}>
+    <Container className={`${styles.certificateslider} m-auto overflow-hidden`}>
       
         <HeadingSection 
             title={t('certificates.certificatesTitle')}
