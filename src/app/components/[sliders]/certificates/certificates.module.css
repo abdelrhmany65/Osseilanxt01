@@ -1,4 +1,4 @@
-body, html {
+:global(body), :global(html) {
     overflow-x: hidden; 
   }
   .certificateslider{
